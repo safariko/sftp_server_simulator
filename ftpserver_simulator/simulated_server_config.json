@@ -1,0 +1,7 @@
+{
+  "SERVER": {
+    "HOST": "localhost",
+    "PORT": "21000",
+    "HOMEDIRECTORY_NAME": "FTPData"
+  }
+}
